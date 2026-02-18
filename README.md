@@ -1,5 +1,7 @@
 # Sales Analytics Dashboard
 
+![Dashboard Preview](Dashboard.png)
+
 ## Project Overview
 This project presents a dynamic Excel dashboard built to analyze sales data and generate meaningful business insights. The dashboard helps visualize key performance metrics such as sales, profit, regional performance, and return patterns.
 
